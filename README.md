@@ -26,19 +26,34 @@ Object-Oriented Programming (OOP)
 📁 Project Structure
 
 COURTHEARINGSCHEDULINGSYSTEM
+
 │
 ├── src
+
 │   ├── com.wipro.chs.entity
+
 │   │   ├── Case.java
+
 │   │   ├── Judge.java
+
 │   │   ├── Courtroom.java
+
 │   │   ├── Hearing.java
+
 │   │
+
 │   ├── com.wipro.chs.service
+
 │   │   └── SchedulingService.java
+
 │   │
+
 │   ├── com.wipro.chs.util
+
 │   │   └── CustomExceptions.java
+
 │   │
+
 │   └── com.wipro.chs.main
+
 │       └── Main.java
